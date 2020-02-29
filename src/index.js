@@ -131,7 +131,7 @@ function addFormElement(event) {
 }
 
 
-// Обработчики событий
+// Обработчики событий a
 newCardForm.addEventListener('input', validateAddCard);
 newCardForm.addEventListener('submit', addFormElement);
 editUserForm.addEventListener('submit', editFormSubmit);
